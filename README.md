@@ -1,6 +1,6 @@
 # Lab 1 – Semantic HTML Page
 
-**Course:** INFO 253A, Front-End Web Architecture
+**Course:** INFO 253A, Front-End Web Architecture /
 **Author:** Jiwon (Dinah) Lee
 
 ## About
